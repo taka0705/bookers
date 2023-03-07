@@ -21,14 +21,14 @@
 }
 
 body{
-  font-family:'Kaushan', cursive, sans-serif;
+  font-family:verdana, arial, helvetica, sans-serif;
   font-size:15px;
   line-height:15px;
   margin:30px;
 }
 
 p{
-  font-family:'Kaushan', cursive, sans-serif;
+  font-family:verdana, arial, helvetica, sans-serif;
   font-size:15px;
   line-height:15px;
   margin:30px;
@@ -36,5 +36,5 @@ p{
 
 .table{
   width:300px;
-  margin:20px;
+  margin:20px 0;
 }
